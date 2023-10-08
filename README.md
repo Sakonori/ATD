@@ -1,4 +1,4 @@
-## ATD - Avanced.Discord.Tools
+## ATD - Avanced-Discord-Tools
 **This application is primarily coded in python 🐍**
 
 > [!WARNING]
