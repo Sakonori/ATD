@@ -16,5 +16,5 @@
 - [ ] 🥉 Website online
 
 ## **Support Contact:**
-Email: [sakonori@duck.com][mailto:sakonori@duck.com]
+Email: [sakonori@duck.com](mailto:sakonori@duck.com)
 Made by @sakonori
