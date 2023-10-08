@@ -18,4 +18,4 @@
 ## **Support Contact:**
 Email: [sakonori@duck.com](mailto:sakonori@duck.com)
 
-Made by @sakonori
+Made by @Sakonori
