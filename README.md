@@ -14,7 +14,7 @@
 ## **Goal 🎯:**
 - [x] 🥇 Creation of the ATD project 🎉 | (08/10/2023)
 - [ ] 🥈 App Created 
-- [ ] 🥉 Website online
+- [ ] 🥉 Website are online
 
 ## **Support Contact:**
 Email: [sakonori@duck.com](mailto:sakonori@duck.com)
